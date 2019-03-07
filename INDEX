@@ -1,0 +1,3 @@
+coxph.risk              Absolute risk estimation with Cox proportional
+                        hazards models
+survfit.risk            Non-parametric absolute risk estimation
